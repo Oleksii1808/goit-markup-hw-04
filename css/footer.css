@@ -1,0 +1,25 @@
+.footer-part {
+background-color: #2e2f42;
+padding: 100px 141px;
+}
+
+.logo-footer {
+display: block;
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.33;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+margin-bottom: 16px;
+}
+
+.logo-accent-footer {
+color: #f4f4fd;
+}
+
+.footer-description {
+color: #f4f4fd;
+max-width: 264px;
+}

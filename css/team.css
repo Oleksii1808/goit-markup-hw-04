@@ -1,0 +1,38 @@
+.team-section {
+background-color: #f4f4fd;
+}
+
+.container {
+}
+.team-headline {
+    margin-bottom: 72px;
+}
+.team-list {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.team-list-element {
+background-color: #fff;
+border-radius: 0 0 4px 4px;
+
+}
+.team-member-image {
+}
+
+.name-and-position-wrapper {
+padding: 32px 16px;
+}
+
+.team-list-member-headline {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+color: #2e2f42;
+letter-spacing: 0.02em;
+text-align: center;
+margin-bottom: 8px;
+}
+.team-list-member-description {
+text-align: center;
+}
