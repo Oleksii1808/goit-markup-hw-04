@@ -22,8 +22,8 @@
 }
 
 
-.portfolio-list-element:hover .overlay-container,
-.portfolio-list-element:focus .overlay-container{
+.portfolio-list-element:hover .overlay,
+.portfolio-list-element:focus .overlay{
     transform: translateY(0);
 }
 
@@ -34,7 +34,7 @@ overflow: hidden;}
 .portfolio-element-image {
 }
 
-.overlay-container {
+.overlay {
     transform: translateY(100%);
     position: absolute;
     top: 0;
@@ -49,7 +49,7 @@ overflow: hidden;}
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
-    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 

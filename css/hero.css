@@ -9,6 +9,10 @@
     padding: 188px 0;
 }
 
+.hero-container {
+    max-width: 1440px;
+}
+
 .main-page-headline {
     font-weight: 700;
     font-size: 56px;
@@ -23,6 +27,7 @@
 
 .main-page-button {
     background-color: #4d5ae5;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     font-weight: 500;
     letter-spacing: 0.04em;
     color: #fff;
